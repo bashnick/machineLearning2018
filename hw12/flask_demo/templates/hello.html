@@ -1,0 +1,13 @@
+<!doctype html>
+<title>Reviews scoring Demo</title>
+<form action="{{ url_for('index_page') }}" method=post>
+    <dl>
+        <dt>Введите текст для анализа:
+        <br>
+        <dd style="margin-top: 5px"><textarea name=review rows=3 cols=40>{{ review }}</textarea>
+
+        <input type=submit value="Оценить">
+    </dl>
+</form>
+
+<br>Тональность отзыва: {{ prediction }}

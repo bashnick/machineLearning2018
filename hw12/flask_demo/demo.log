@@ -1,0 +1,119 @@
+[2018-03-11 19:29:56,290] {demo.py:34} INFO - POST request, start to parse data
+[2018-03-11 19:29:56,297] {demo.py:36} INFO - Data is parsed, the result is
+[2018-03-11 19:29:56,297] {demo.py:37} INFO - {'experience': 0.0, 'is_first_category': False, 'is_phd': False, 'proffesions': ['dhfx']}
+[2018-03-11 19:29:56,299] {demo.py:40} INFO - The prediction is 2031.4364013671875
+[2018-03-11 21:20:28,246] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:23:56,138] {demo.py:35} INFO - POST request, start to parse data
+[2018-03-11 21:25:02,009] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:19,271] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:19,277] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:19,298] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:25:28,534] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:28,536] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:28,554] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:25:29,599] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:29,601] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:29,616] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:25:30,234] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:30,237] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:30,253] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:25:42,321] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:42,323] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:42,339] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:25:44,731] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:44,733] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:44,748] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:25:45,141] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:25:45,144] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:25:45,157] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:27:35,169] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:27:35,175] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:27:35,193] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:28:44,825] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:28:44,829] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:28:44,830] {demo.py:39} INFO - {'review': 'hello world'}
+[2018-03-11 21:28:44,831] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:28:59,257] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:28:59,259] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:28:59,260] {demo.py:39} INFO - {'review': 'hello world'}
+[2018-03-11 21:28:59,261] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:29:10,460] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:29:10,461] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:29:10,462] {demo.py:39} INFO - {'review': 'python'}
+[2018-03-11 21:29:10,464] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:08,731] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:08,738] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:08,756] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:15,061] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:15,064] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:15,078] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:17,085] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:17,087] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:17,102] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:17,856] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:17,857] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:17,873] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:18,134] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:18,136] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:18,152] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:18,328] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:18,329] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:18,342] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:46:31,762] {demo.py:36} INFO - POST request, start to parse data
+[2018-03-11 21:46:31,763] {demo.py:38} INFO - Data is parsed, the result is
+[2018-03-11 21:46:31,777] {demo.py:43} INFO - The prediction is [0]
+[2018-03-11 21:53:06,304] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 21:59:26,448] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 21:59:26,453] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 21:59:26,473] {demo.py:46} INFO - The prediction is [0]
+[2018-03-11 21:59:41,379] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 21:59:41,381] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 21:59:41,396] {demo.py:46} INFO - The prediction is [0]
+[2018-03-11 23:01:06,734] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:01:06,741] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:01:06,741] {demo.py:42} INFO - {'review': ['hello world']}
+[2018-03-11 23:01:06,742] {demo.py:46} INFO - The prediction is [0]
+[2018-03-11 23:01:35,098] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:01:35,100] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:01:35,122] {demo.py:46} INFO - The prediction is [0]
+[2018-03-11 23:05:18,682] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:05:18,690] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:05:18,691] {demo.py:42} INFO - {'review': ['1']}
+[2018-03-11 23:05:18,693] {demo.py:46} INFO - The prediction is [0]
+[2018-03-11 23:05:33,228] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:05:33,230] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:05:33,253] {demo.py:46} INFO - The prediction is [0]
+[2018-03-11 23:06:47,822] {demo.py:40} INFO - POST request, start to parse data
+[2018-03-11 23:06:47,829] {demo.py:42} INFO - Data is parsed, the result is
+[2018-03-11 23:06:47,840] {demo.py:47} INFO - The prediction is [0]
+[2018-03-11 23:06:59,244] {demo.py:40} INFO - POST request, start to parse data
+[2018-03-11 23:06:59,245] {demo.py:42} INFO - Data is parsed, the result is
+[2018-03-11 23:06:59,260] {demo.py:47} INFO - The prediction is [0]
+[2018-03-11 23:09:48,096] {demo.py:38} INFO - POST request, start to parse data
+[2018-03-11 23:09:48,100] {demo.py:40} INFO - Data is parsed, the result is
+[2018-03-11 23:09:48,110] {demo.py:45} INFO - The prediction is [0]
+[2018-03-11 23:10:02,872] {demo.py:38} INFO - POST request, start to parse data
+[2018-03-11 23:10:02,878] {demo.py:40} INFO - Data is parsed, the result is
+[2018-03-11 23:10:02,890] {demo.py:45} INFO - The prediction is [0]
+[2018-03-11 23:10:08,733] {demo.py:38} INFO - POST request, start to parse data
+[2018-03-11 23:10:08,735] {demo.py:40} INFO - Data is parsed, the result is
+[2018-03-11 23:10:08,742] {demo.py:45} INFO - The prediction is [0]
+[2018-03-11 23:10:11,645] {demo.py:38} INFO - POST request, start to parse data
+[2018-03-11 23:10:11,646] {demo.py:40} INFO - Data is parsed, the result is
+[2018-03-11 23:10:11,654] {demo.py:45} INFO - The prediction is [0]
+[2018-03-11 23:10:24,448] {demo.py:38} INFO - POST request, start to parse data
+[2018-03-11 23:10:24,450] {demo.py:40} INFO - Data is parsed, the result is
+[2018-03-11 23:10:24,458] {demo.py:45} INFO - The prediction is [0]
+[2018-03-11 23:10:37,812] {demo.py:38} INFO - POST request, start to parse data
+[2018-03-11 23:10:37,814] {demo.py:40} INFO - Data is parsed, the result is
+[2018-03-11 23:10:37,831] {demo.py:45} INFO - The prediction is [0]
+[2018-03-11 23:12:50,086] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:12:50,092] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:12:50,105] {demo.py:48} INFO - The prediction is [0]
+[2018-03-11 23:13:03,488] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:13:03,489] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:13:03,490] {demo.py:42} INFO - {'review': ['hi']}
+[2018-03-11 23:13:03,492] {demo.py:48} INFO - The prediction is [0]
+[2018-03-11 23:14:06,227] {demo.py:39} INFO - POST request, start to parse data
+[2018-03-11 23:14:06,230] {demo.py:41} INFO - Data is parsed, the result is
+[2018-03-11 23:14:06,245] {demo.py:48} INFO - The prediction is [0]
